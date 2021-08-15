@@ -26,6 +26,7 @@
 }
 
 .modal-header{
+    color: white;
     display: flex;
     position: relative;
     justify-content: center;
